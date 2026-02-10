@@ -6,3 +6,5 @@ Two simple console games:
 ## Run games
 python guess_game.py
 python dice_game.py
+## Run tests
+pytest
